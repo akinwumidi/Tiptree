@@ -1,0 +1,16 @@
+/* #29ca8e */
+/* Universal styling */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 2500px;
+    font-family: 'Lato', sans-serif;
+}
+/* Row holders */
+.row{
+    max-width: 90%;
+    margin: 0 auto;
+}
